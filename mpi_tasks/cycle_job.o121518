@@ -1,0 +1,16 @@
+Process 1 sent value : 1
+Process 1 recieved value : 0
+Process 2 sent value : 2
+Process 2 recieved value : 1
+Process 3 sent value : 3
+Process 3 recieved value : 2
+Process 4 sent value : 4
+Process 4 recieved value : 3
+Process 0 sent value : 0
+Process 0 recieved value : 7
+Process 5 sent value : 5
+Process 5 recieved value : 4
+Process 6 sent value : 6
+Process 6 recieved value : 5
+Process 7 sent value : 7
+Process 7 recieved value : 6
