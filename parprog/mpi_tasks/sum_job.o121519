@@ -1,0 +1,9 @@
+MPI_SUM result on process #1 is 3.019877
+MPI_SUM result on process #2 is 0.756081
+MPI_SUM result on process #3 is 0.398601
+MPI_SUM result on process #0 is 0.000000
+MPI_SUM result is 5.037366
+MPI_SUM result on process #4 is 0.304646
+MPI_SUM result on process #5 is 0.217059
+MPI_SUM result on process #6 is 0.191758
+MPI_SUM result on process #7 is 0.149343
